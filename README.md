@@ -1,5 +1,5 @@
 # E-Commerce Sales Data Analysis
-*Project Overview*
+Project Overview
 This project focuses on analyzing e-commerce sales data to evaluate business performance, identify revenue trends, and uncover actionable insights. The analysis converts raw transactional data into an interactive Power BI dashboard that supports data-driven decision-making for sales, product, and regional strategies.
 
 Objectives
@@ -9,7 +9,7 @@ Track sales trends over time
 Evaluate regional and customer segment performance
 Provide insights to support business optimization
 
-*Dataset Description*
+Dataset Description
 The dataset contains order-level e-commerce transactions, including:
 
 Order details (Order ID, Order Date)
@@ -17,7 +17,7 @@ Customer and segment information
 Product, category, and sub-category data
 Sales, quantity, discount, and profit metrics
 
-*Data Cleaning & Preparation*
+Data Cleaning & Preparation
 Data cleaning and transformation were performed using Power BI Power Query:
 
 Removed duplicate records
@@ -26,7 +26,7 @@ Handled missing and invalid values
 Corrected data types for analysis
 Created derived date features for trend analysis
 
-*Key Metrics & Analysis*
+**Key Metrics & Analysis**
 The following KPIs were analyzed:
 
 Total Sales
