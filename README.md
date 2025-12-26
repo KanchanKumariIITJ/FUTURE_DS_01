@@ -1,5 +1,5 @@
 # E-Commerce Sales Data Analysis
-📌 Project Overview
+*Project Overview*
 This project focuses on analyzing e-commerce sales data to evaluate business performance, identify revenue trends, and uncover actionable insights. The analysis converts raw transactional data into an interactive Power BI dashboard that supports data-driven decision-making for sales, product, and regional strategies.
 
 Objectives
